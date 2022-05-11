@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobirjone
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java programming, maths for computing, networking and computer architecture.
+- 🌱 I’m currently learning Java programming, Python, Django ...anything on the net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sobirjone@outlook.com
 
